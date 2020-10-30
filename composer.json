@@ -1,5 +1,9 @@
 {
+    "name": "test/test",
+    "description": "no",
+    "type": "project",
     "require": {
         "symfony/console": "^5.1"
-    }
+    },
+    "license": "MIT"
 }
